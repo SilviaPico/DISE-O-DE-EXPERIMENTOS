@@ -1,0 +1,18 @@
+Standard order,Run order,Blocks,Mass,Speed,Size,Number of blades,Residue
+,,,,,,,(gms)
+5,1,Block 1,200,B1,6,2,65
+9,2,Block 1,100,B1,4,4,3.5
+12,3,Block 1,200,B2,4,4,51
+14,4,Block 1,200,B1,6,4,49
+8,5,Block 1,200,B2,6,2,62
+2,6,Block 1,200,B1,4,2,68
+15,7,Block 1,100,B2,6,4,2.5
+3,8,Block 1,100,B2,4,2,5
+11,9,Block 2,100,B2,4,4,5
+13,10,Block 2,100,B1,6,4,4.5
+6,11,Block 2,200,B1,6,2,65
+7,12,Block 2,100,B2,6,2,5
+4,13,Block 2,200,B2,4,2,69
+16,14,Block 2,200,B2,6,4,52
+1,15,Block 2,100,B1,4,2,7
+10,16,Block 2,200,B1,4,4,55
